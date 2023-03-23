@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  em {
+    font-style: bold;
+    color: rgb(179, 182, 183);
+  }
+
+  #minhafoto {
+    max-width: 6%;
+    float: right;
+  }
+
+  .meuNome, .descricao {
+    font-family: 'Times New Roman', Times, serif;
+
+  }
+
+  .resido {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: bold;
+  }
+
+  .ardino{
+    font-size: 20px;
+  }
+
+  .cplusplus{
+    font-size: 18px;
+  }
+
+  .pascal {
+    font-size: 16px;
+  }
+
+  .ingles {
+    font-size: 14px;
+  }
+
+  .japones{
+    font-size: 12px;
+  }
+
